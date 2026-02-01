@@ -1,7 +1,7 @@
 # GLMapPy
 A simple Python runtime that makes the process of creating publication-quality statistical model diagrams simple. 
 
-Currently catered to GLM and LM block diagrams. Further goals include allowing text to be placed anywhere on the canvas and further arrow manipulation.
+Currently catered to GLM and LM block diagrams. Further goals include allowing text to be placed anywhere on the canvas and further arrow manipulation (non-LM diagrams).
 <br/>
 # Version Info
 This program is currently in Beta testing. Any recommendations and bug reports are greatly appreciated. 
@@ -19,9 +19,9 @@ Changes:
 - Optimization: ruler view has been temporarily removed as it interferes with grid lines when adding nodes.
 
 ## Installation
-Since the .exe was created with PyInstaller, the installation process is as easy as downloading the .exe and running it. That's it. 
+Since the .exe is over 25mb, I can't add it here. However, just run the source code and the program will appear. I recommend using PyInstaller if you want an executable for Windows. 
 ## Citation
-If you use this software in academic work, please cite:
+If you use this software or any modification of the source code in academic work, please cite:
 
 Skogsberg, Erik (2026). GLMapPy: A Simple Way to Create LM Diagrams. GitHub repository: https://github.com/eralsk/glmappy
 <br/>
