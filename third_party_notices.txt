@@ -1,0 +1,19 @@
+This software makes use of the following third-party libraries:
+
+Python Standard Library (tkinter, json, math, copy, io)
+Licensed under the Python Software Foundation License (PSF).
+
+NumPy
+Copyright © NumPy Developers
+Licensed under the BSD License.
+
+Matplotlib
+Copyright © Matplotlib Development Team
+Licensed under a BSD-style License.
+
+Daft
+Copyright © Daft Authors
+Licensed under the MIT License.
+
+These libraries are distributed under their respective licenses.
+This project does not include or redistribute their source code.
