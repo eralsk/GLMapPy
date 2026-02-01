@@ -5,7 +5,6 @@ Currently catered to GLM and LM block diagrams. Further goals include allowing t
 <br/>
 # Version Info
 This program is currently in Beta testing. Any recommendations and bug reports are greatly appreciated. 
-Developed for Windows OS.
 -------------------------------
 Version: BETA 1.0
 
@@ -20,7 +19,32 @@ Changes:
 
 ## Installation
 Since the .exe is over 25mb, I can't add it here. However, just run the source code and the program will appear. I recommend using PyInstaller if you want an executable for Windows. 
-## Citation
+*Users must have Python installed to run the application.
+
+### Requirements
+
+- Python **3.9 or newer** (tested on Python 3.11)
+- Operating system: Windows, macOS, or Linux
+
+### Python Dependencies
+
+The following Python packages are required:
+
+- tkinter (included with standard Python distributions)
+- numpy
+- matplotlib
+- daft
+
+Standard library modules (`json`, `math`, `copy`, `io`) are included with Python and require no additional installation.
+
+### Installation
+
+1. Clone this repository or download the source code:
+   ```bash
+   git clone https://github.com/yourusername/projectname.git
+   cd projectname
+
+# Citation
 If you use this software or any modification of the source code in academic work, please cite:
 
 Skogsberg, Erik (2026). GLMapPy: A Simple Way to Create LM Diagrams. GitHub repository: https://github.com/eralsk/glmappy
